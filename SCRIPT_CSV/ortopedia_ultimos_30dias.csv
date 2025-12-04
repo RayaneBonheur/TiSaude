@@ -1,0 +1,333 @@
+id_agendamento,id_paciente,id_medico,data_agendamento,tipo_consulta,especialidade,status_agendamento,valor_consulta
+7,131,12,2025-06-10,Exame,Ortopedia,Realizado,250.00
+49,183,16,2025-07-01,Primeira Consulta,Ortopedia,Realizado,80.00
+95,192,12,2025-07-14,Exame,Ortopedia,Realizado,250.00
+133,122,15,2025-06-23,Exame,Ortopedia,Realizado,150.00
+140,165,10,2025-06-09,Primeira Consulta,Ortopedia,Realizado,120.00
+153,155,12,2025-06-24,Primeira Consulta,Ortopedia,Realizado,160.00
+193,104,19,2025-06-25,Exame,Ortopedia,Realizado,180.00
+199,140,17,2025-06-12,Primeira Consulta,Ortopedia,Realizado,200.00
+217,141,13,2025-06-07,Retorno,Ortopedia,Realizado,120.00
+222,110,11,2025-06-06,Retorno,Ortopedia,Realizado,80.00
+281,154,17,2025-07-13,Exame,Ortopedia,Realizado,80.00
+367,197,12,2025-06-04,Exame,Ortopedia,Realizado,150.00
+451,166,15,2025-07-02,Primeira Consulta,Ortopedia,Realizado,180.00
+492,174,15,2025-07-01,Primeira Consulta,Ortopedia,Realizado,250.00
+493,175,18,2025-06-27,Exame,Ortopedia,Realizado,250.00
+518,119,19,2025-06-03,Retorno,Ortopedia,Realizado,250.00
+592,126,16,2025-07-16,Exame,Ortopedia,Realizado,160.00
+618,119,20,2025-06-22,Exame,Ortopedia,Realizado,160.00
+625,122,15,2025-07-03,Exame,Ortopedia,Realizado,80.00
+639,131,20,2025-06-03,Exame,Ortopedia,Realizado,150.00
+654,161,11,2025-06-18,Exame,Ortopedia,Realizado,100.00
+705,159,18,2025-06-28,Exame,Ortopedia,Realizado,200.00
+708,128,15,2025-06-25,Exame,Ortopedia,Realizado,100.00
+729,115,12,2025-07-09,Primeira Consulta,Ortopedia,Realizado,80.00
+766,179,20,2025-06-29,Primeira Consulta,Ortopedia,Realizado,160.00
+781,162,17,2025-05-30,Exame,Ortopedia,Realizado,80.00
+788,199,12,2025-07-03,Exame,Ortopedia,Realizado,180.00
+792,162,16,2025-06-30,Exame,Ortopedia,Realizado,80.00
+804,125,18,2025-06-07,Primeira Consulta,Ortopedia,Realizado,80.00
+840,104,18,2025-06-07,Exame,Ortopedia,Realizado,160.00
+857,137,12,2025-07-03,Exame,Ortopedia,Realizado,180.00
+880,115,14,2025-06-28,Exame,Ortopedia,Realizado,250.00
+898,158,15,2025-07-02,Retorno,Ortopedia,Realizado,80.00
+909,141,12,2025-06-14,Retorno,Ortopedia,Realizado,80.00
+966,144,20,2025-07-02,Retorno,Ortopedia,Realizado,160.00
+984,174,10,2025-07-03,Retorno,Ortopedia,Realizado,120.00
+997,134,20,2025-06-02,Primeira Consulta,Ortopedia,Realizado,180.00
+1081,147,11,2025-06-23,Retorno,Ortopedia,Realizado,160.00
+1087,141,11,2025-07-05,Primeira Consulta,Ortopedia,Realizado,180.00
+1151,116,16,2025-06-25,Primeira Consulta,Ortopedia,Realizado,120.00
+1156,184,17,2025-06-14,Retorno,Ortopedia,Realizado,200.00
+1168,137,16,2025-07-13,Exame,Ortopedia,Realizado,120.00
+1248,143,12,2025-06-28,Primeira Consulta,Ortopedia,Realizado,200.00
+1270,144,16,2025-06-16,Primeira Consulta,Ortopedia,Realizado,80.00
+1296,119,17,2025-07-03,Primeira Consulta,Ortopedia,Realizado,200.00
+1319,112,11,2025-05-30,Primeira Consulta,Ortopedia,Realizado,200.00
+1357,106,10,2025-06-08,Retorno,Ortopedia,Realizado,180.00
+1359,100,15,2025-06-27,Primeira Consulta,Ortopedia,Realizado,180.00
+1391,149,20,2025-07-12,Primeira Consulta,Ortopedia,Realizado,250.00
+1427,161,16,2025-07-13,Retorno,Ortopedia,Realizado,80.00
+1519,114,11,2025-07-11,Retorno,Ortopedia,Realizado,250.00
+1544,182,12,2025-07-16,Primeira Consulta,Ortopedia,Realizado,100.00
+1583,153,16,2025-06-22,Primeira Consulta,Ortopedia,Realizado,250.00
+1590,109,18,2025-06-08,Retorno,Ortopedia,Realizado,150.00
+1608,170,16,2025-06-22,Exame,Ortopedia,Realizado,80.00
+1619,127,12,2025-06-10,Exame,Ortopedia,Realizado,160.00
+1622,165,14,2025-06-24,Primeira Consulta,Ortopedia,Realizado,250.00
+1627,183,16,2025-06-22,Retorno,Ortopedia,Realizado,120.00
+1649,193,16,2025-06-19,Primeira Consulta,Ortopedia,Realizado,150.00
+1654,119,16,2025-06-27,Retorno,Ortopedia,Realizado,250.00
+1658,199,15,2025-06-23,Retorno,Ortopedia,Realizado,100.00
+1670,150,16,2025-06-14,Exame,Ortopedia,Realizado,200.00
+1711,176,16,2025-06-02,Exame,Ortopedia,Realizado,250.00
+1727,112,20,2025-07-01,Primeira Consulta,Ortopedia,Realizado,80.00
+1728,113,16,2025-06-12,Exame,Ortopedia,Realizado,250.00
+1761,113,17,2025-06-13,Exame,Ortopedia,Realizado,250.00
+1796,139,12,2025-07-17,Exame,Ortopedia,Realizado,80.00
+1800,112,14,2025-06-14,Retorno,Ortopedia,Realizado,150.00
+1828,116,14,2025-07-12,Primeira Consulta,Ortopedia,Realizado,100.00
+1866,118,13,2025-07-05,Exame,Ortopedia,Realizado,200.00
+1878,129,11,2025-07-11,Retorno,Ortopedia,Realizado,100.00
+1883,104,13,2025-07-03,Exame,Ortopedia,Realizado,200.00
+1894,187,19,2025-07-16,Retorno,Ortopedia,Realizado,150.00
+1921,194,20,2025-06-15,Exame,Ortopedia,Realizado,250.00
+1934,194,17,2025-06-30,Primeira Consulta,Ortopedia,Realizado,200.00
+1953,158,13,2025-06-04,Primeira Consulta,Ortopedia,Realizado,200.00
+1964,109,19,2025-06-18,Primeira Consulta,Ortopedia,Realizado,160.00
+2039,127,17,2025-07-04,Exame,Ortopedia,Realizado,200.00
+2046,137,14,2025-06-08,Exame,Ortopedia,Realizado,80.00
+2050,190,19,2025-05-29,Retorno,Ortopedia,Realizado,100.00
+2186,189,13,2025-07-10,Retorno,Ortopedia,Realizado,100.00
+2246,109,14,2025-06-30,Retorno,Ortopedia,Realizado,80.00
+2257,181,17,2025-07-15,Retorno,Ortopedia,Realizado,120.00
+2330,169,10,2025-06-28,Primeira Consulta,Ortopedia,Realizado,100.00
+2358,165,15,2025-06-12,Exame,Ortopedia,Realizado,180.00
+2391,173,15,2025-06-22,Exame,Ortopedia,Realizado,150.00
+2427,129,20,2025-07-09,Retorno,Ortopedia,Realizado,200.00
+2435,107,15,2025-05-29,Retorno,Ortopedia,Realizado,150.00
+2499,175,12,2025-07-06,Retorno,Ortopedia,Realizado,120.00
+2500,104,14,2025-06-17,Primeira Consulta,Ortopedia,Realizado,80.00
+2565,179,17,2025-07-06,Retorno,Ortopedia,Realizado,80.00
+2584,186,10,2025-06-02,Primeira Consulta,Ortopedia,Realizado,180.00
+2603,192,13,2025-05-30,Primeira Consulta,Ortopedia,Realizado,100.00
+2630,126,20,2025-06-18,Retorno,Ortopedia,Realizado,150.00
+2635,178,11,2025-06-17,Retorno,Ortopedia,Realizado,250.00
+2646,127,16,2025-06-08,Primeira Consulta,Ortopedia,Realizado,150.00
+2679,168,15,2025-06-23,Primeira Consulta,Ortopedia,Realizado,100.00
+2752,126,16,2025-06-18,Primeira Consulta,Ortopedia,Realizado,150.00
+2754,142,12,2025-06-12,Primeira Consulta,Ortopedia,Realizado,150.00
+2790,111,19,2025-06-05,Exame,Ortopedia,Realizado,80.00
+2796,131,11,2025-07-07,Exame,Ortopedia,Realizado,100.00
+2802,119,18,2025-07-16,Exame,Ortopedia,Realizado,120.00
+2824,137,10,2025-06-01,Retorno,Ortopedia,Realizado,150.00
+2834,123,16,2025-07-06,Retorno,Ortopedia,Realizado,200.00
+2847,168,10,2025-07-12,Retorno,Ortopedia,Realizado,150.00
+2989,180,17,2025-06-05,Exame,Ortopedia,Realizado,150.00
+2999,110,19,2025-06-06,Exame,Ortopedia,Realizado,100.00
+3005,110,19,2025-07-17,Primeira Consulta,Ortopedia,Realizado,100.00
+3192,110,12,2025-07-09,Exame,Ortopedia,Realizado,180.00
+3270,142,12,2025-06-20,Primeira Consulta,Ortopedia,Realizado,150.00
+3329,181,12,2025-06-30,Retorno,Ortopedia,Realizado,200.00
+3336,108,17,2025-07-15,Primeira Consulta,Ortopedia,Realizado,180.00
+3337,157,14,2025-05-31,Primeira Consulta,Ortopedia,Realizado,150.00
+3342,110,13,2025-07-11,Retorno,Ortopedia,Realizado,100.00
+3395,189,16,2025-07-14,Primeira Consulta,Ortopedia,Realizado,80.00
+3422,163,18,2025-06-15,Primeira Consulta,Ortopedia,Realizado,100.00
+3425,109,14,2025-06-21,Exame,Ortopedia,Realizado,180.00
+3427,176,11,2025-07-03,Primeira Consulta,Ortopedia,Realizado,120.00
+3428,134,20,2025-06-28,Primeira Consulta,Ortopedia,Realizado,100.00
+3471,161,19,2025-06-23,Exame,Ortopedia,Realizado,160.00
+3506,149,15,2025-07-14,Primeira Consulta,Ortopedia,Realizado,200.00
+3552,185,15,2025-06-06,Retorno,Ortopedia,Realizado,160.00
+3595,114,19,2025-06-25,Exame,Ortopedia,Realizado,150.00
+3598,141,14,2025-06-06,Exame,Ortopedia,Realizado,120.00
+3734,116,20,2025-06-13,Retorno,Ortopedia,Realizado,100.00
+3762,198,17,2025-07-11,Retorno,Ortopedia,Realizado,100.00
+3763,162,19,2025-06-05,Retorno,Ortopedia,Realizado,120.00
+3858,112,18,2025-07-03,Retorno,Ortopedia,Realizado,80.00
+3863,138,14,2025-07-12,Retorno,Ortopedia,Realizado,250.00
+3890,184,19,2025-07-06,Exame,Ortopedia,Realizado,150.00
+3913,141,18,2025-06-19,Exame,Ortopedia,Realizado,100.00
+3924,168,20,2025-06-01,Retorno,Ortopedia,Realizado,250.00
+3936,122,15,2025-06-25,Exame,Ortopedia,Realizado,120.00
+4027,118,20,2025-06-10,Exame,Ortopedia,Realizado,150.00
+4033,160,12,2025-06-12,Exame,Ortopedia,Realizado,180.00
+4060,106,17,2025-07-09,Retorno,Ortopedia,Realizado,150.00
+4164,184,13,2025-06-21,Retorno,Ortopedia,Realizado,150.00
+4243,166,11,2025-06-19,Exame,Ortopedia,Realizado,80.00
+4271,133,10,2025-06-28,Retorno,Ortopedia,Realizado,160.00
+4277,168,11,2025-06-25,Retorno,Ortopedia,Realizado,120.00
+4305,107,17,2025-06-26,Primeira Consulta,Ortopedia,Realizado,120.00
+4408,146,20,2025-07-07,Retorno,Ortopedia,Realizado,160.00
+4414,162,20,2025-06-17,Primeira Consulta,Ortopedia,Realizado,100.00
+4415,117,11,2025-07-15,Primeira Consulta,Ortopedia,Realizado,100.00
+4440,112,17,2025-06-11,Exame,Ortopedia,Realizado,250.00
+4457,154,11,2025-06-06,Exame,Ortopedia,Realizado,100.00
+4458,105,17,2025-06-17,Exame,Ortopedia,Realizado,180.00
+4503,106,20,2025-06-01,Exame,Ortopedia,Realizado,120.00
+4520,113,18,2025-06-04,Primeira Consulta,Ortopedia,Realizado,180.00
+4555,138,13,2025-07-13,Exame,Ortopedia,Realizado,160.00
+4582,128,12,2025-06-07,Retorno,Ortopedia,Realizado,160.00
+4588,143,19,2025-06-14,Retorno,Ortopedia,Realizado,150.00
+4635,122,10,2025-06-24,Primeira Consulta,Ortopedia,Realizado,250.00
+4651,125,15,2025-06-04,Retorno,Ortopedia,Realizado,250.00
+4658,125,19,2025-07-07,Primeira Consulta,Ortopedia,Realizado,150.00
+4707,144,16,2025-06-30,Exame,Ortopedia,Realizado,180.00
+4738,135,13,2025-07-10,Exame,Ortopedia,Realizado,160.00
+4745,140,12,2025-06-21,Retorno,Ortopedia,Realizado,160.00
+4856,200,12,2025-07-07,Retorno,Ortopedia,Realizado,250.00
+4914,127,12,2025-07-12,Primeira Consulta,Ortopedia,Realizado,180.00
+4931,197,12,2025-05-30,Retorno,Ortopedia,Realizado,180.00
+4945,168,10,2025-05-30,Exame,Ortopedia,Realizado,100.00
+4946,108,14,2025-06-08,Retorno,Ortopedia,Realizado,120.00
+4962,135,14,2025-07-08,Exame,Ortopedia,Realizado,160.00
+4997,188,10,2025-06-27,Primeira Consulta,Ortopedia,Realizado,200.00
+5018,152,17,2025-07-07,Exame,Ortopedia,Realizado,120.00
+5043,113,12,2025-07-17,Exame,Ortopedia,Realizado,180.00
+5048,188,16,2025-06-09,Primeira Consulta,Ortopedia,Realizado,150.00
+5051,190,17,2025-06-14,Exame,Ortopedia,Realizado,180.00
+5056,183,17,2025-06-30,Retorno,Ortopedia,Realizado,120.00
+5102,191,11,2025-06-06,Exame,Ortopedia,Realizado,150.00
+5111,198,19,2025-06-24,Retorno,Ortopedia,Realizado,160.00
+5125,135,19,2025-06-07,Retorno,Ortopedia,Realizado,120.00
+5145,132,11,2025-06-12,Primeira Consulta,Ortopedia,Realizado,160.00
+5231,101,15,2025-07-16,Retorno,Ortopedia,Realizado,120.00
+5257,156,16,2025-07-10,Retorno,Ortopedia,Realizado,150.00
+5271,122,20,2025-06-25,Retorno,Ortopedia,Realizado,80.00
+5435,178,14,2025-06-18,Exame,Ortopedia,Realizado,180.00
+5467,162,10,2025-06-02,Primeira Consulta,Ortopedia,Realizado,160.00
+5476,119,13,2025-06-26,Retorno,Ortopedia,Realizado,120.00
+5536,104,16,2025-06-18,Exame,Ortopedia,Realizado,200.00
+5562,138,15,2025-06-15,Retorno,Ortopedia,Realizado,100.00
+5615,186,11,2025-06-17,Primeira Consulta,Ortopedia,Realizado,160.00
+5617,127,16,2025-07-14,Retorno,Ortopedia,Realizado,150.00
+5621,109,17,2025-06-20,Primeira Consulta,Ortopedia,Realizado,200.00
+5650,131,14,2025-07-12,Primeira Consulta,Ortopedia,Realizado,150.00
+5658,169,14,2025-07-08,Primeira Consulta,Ortopedia,Realizado,250.00
+5711,113,12,2025-07-09,Exame,Ortopedia,Realizado,120.00
+5717,132,18,2025-06-08,Retorno,Ortopedia,Realizado,250.00
+5791,152,19,2025-06-29,Retorno,Ortopedia,Realizado,80.00
+5824,125,20,2025-06-24,Retorno,Ortopedia,Realizado,160.00
+5895,102,15,2025-06-05,Retorno,Ortopedia,Realizado,80.00
+6001,187,20,2025-06-27,Exame,Ortopedia,Realizado,180.00
+6062,180,15,2025-06-08,Primeira Consulta,Ortopedia,Realizado,100.00
+6097,122,12,2025-06-30,Exame,Ortopedia,Realizado,100.00
+6151,148,20,2025-06-26,Exame,Ortopedia,Realizado,200.00
+6165,196,16,2025-06-17,Exame,Ortopedia,Realizado,180.00
+6175,189,10,2025-06-19,Primeira Consulta,Ortopedia,Realizado,250.00
+6209,180,17,2025-05-30,Retorno,Ortopedia,Realizado,200.00
+6220,120,18,2025-07-09,Primeira Consulta,Ortopedia,Realizado,250.00
+6260,169,19,2025-06-16,Exame,Ortopedia,Realizado,150.00
+6356,131,19,2025-06-12,Exame,Ortopedia,Realizado,180.00
+6364,189,18,2025-07-04,Retorno,Ortopedia,Realizado,100.00
+6399,154,18,2025-05-30,Primeira Consulta,Ortopedia,Realizado,160.00
+6406,152,18,2025-07-01,Retorno,Ortopedia,Realizado,250.00
+6414,166,14,2025-06-07,Exame,Ortopedia,Realizado,180.00
+6456,197,17,2025-06-06,Exame,Ortopedia,Realizado,250.00
+6474,145,13,2025-07-08,Exame,Ortopedia,Realizado,120.00
+6484,179,10,2025-07-11,Exame,Ortopedia,Realizado,150.00
+6511,176,14,2025-06-13,Retorno,Ortopedia,Realizado,150.00
+6532,170,13,2025-06-13,Exame,Ortopedia,Realizado,120.00
+6538,186,14,2025-07-15,Retorno,Ortopedia,Realizado,180.00
+6556,136,10,2025-07-09,Primeira Consulta,Ortopedia,Realizado,80.00
+6632,167,20,2025-07-15,Retorno,Ortopedia,Realizado,160.00
+6767,124,12,2025-06-21,Retorno,Ortopedia,Realizado,180.00
+6777,140,10,2025-07-01,Primeira Consulta,Ortopedia,Realizado,250.00
+6855,143,14,2025-06-25,Exame,Ortopedia,Realizado,180.00
+6868,163,18,2025-06-03,Retorno,Ortopedia,Realizado,150.00
+6880,192,11,2025-06-30,Primeira Consulta,Ortopedia,Realizado,250.00
+6918,131,16,2025-06-03,Retorno,Ortopedia,Realizado,120.00
+6943,164,10,2025-06-26,Primeira Consulta,Ortopedia,Realizado,200.00
+6969,125,14,2025-06-09,Primeira Consulta,Ortopedia,Realizado,160.00
+6971,198,17,2025-06-28,Retorno,Ortopedia,Realizado,80.00
+6973,121,20,2025-05-31,Exame,Ortopedia,Realizado,160.00
+7001,188,14,2025-06-10,Retorno,Ortopedia,Realizado,150.00
+7089,153,16,2025-06-02,Exame,Ortopedia,Realizado,200.00
+7104,153,14,2025-07-11,Exame,Ortopedia,Realizado,160.00
+7142,159,10,2025-06-21,Primeira Consulta,Ortopedia,Realizado,200.00
+7147,149,11,2025-06-04,Retorno,Ortopedia,Realizado,120.00
+7373,140,13,2025-07-07,Primeira Consulta,Ortopedia,Realizado,120.00
+7420,109,18,2025-06-06,Retorno,Ortopedia,Realizado,250.00
+7429,140,19,2025-06-05,Primeira Consulta,Ortopedia,Realizado,200.00
+7430,121,13,2025-05-31,Retorno,Ortopedia,Realizado,100.00
+7434,142,20,2025-07-16,Primeira Consulta,Ortopedia,Realizado,80.00
+7461,117,10,2025-07-17,Retorno,Ortopedia,Realizado,200.00
+7464,178,12,2025-06-19,Exame,Ortopedia,Realizado,100.00
+7478,190,17,2025-06-23,Primeira Consulta,Ortopedia,Realizado,200.00
+7485,197,20,2025-06-07,Retorno,Ortopedia,Realizado,250.00
+7506,125,12,2025-06-02,Primeira Consulta,Ortopedia,Realizado,180.00
+7507,160,17,2025-06-09,Exame,Ortopedia,Realizado,120.00
+7519,143,16,2025-06-17,Exame,Ortopedia,Realizado,200.00
+7529,178,17,2025-06-18,Exame,Ortopedia,Realizado,80.00
+7570,184,20,2025-06-03,Retorno,Ortopedia,Realizado,150.00
+7583,150,12,2025-05-30,Exame,Ortopedia,Realizado,100.00
+7605,200,16,2025-07-13,Exame,Ortopedia,Realizado,160.00
+7651,108,19,2025-06-01,Exame,Ortopedia,Realizado,150.00
+7669,191,19,2025-06-02,Primeira Consulta,Ortopedia,Realizado,250.00
+7687,182,15,2025-07-09,Primeira Consulta,Ortopedia,Realizado,200.00
+7719,174,16,2025-06-30,Retorno,Ortopedia,Realizado,100.00
+7758,198,17,2025-06-09,Retorno,Ortopedia,Realizado,200.00
+7772,137,20,2025-06-09,Primeira Consulta,Ortopedia,Realizado,160.00
+7799,135,13,2025-06-11,Primeira Consulta,Ortopedia,Realizado,250.00
+7825,127,17,2025-07-03,Retorno,Ortopedia,Realizado,100.00
+7831,196,16,2025-06-07,Primeira Consulta,Ortopedia,Realizado,80.00
+7838,179,18,2025-06-07,Exame,Ortopedia,Realizado,80.00
+7883,168,13,2025-07-16,Retorno,Ortopedia,Realizado,200.00
+7939,149,17,2025-06-09,Retorno,Ortopedia,Realizado,250.00
+7966,111,13,2025-07-01,Retorno,Ortopedia,Realizado,160.00
+7975,178,20,2025-06-25,Retorno,Ortopedia,Realizado,180.00
+7989,189,10,2025-06-25,Retorno,Ortopedia,Realizado,250.00
+8038,182,15,2025-06-23,Exame,Ortopedia,Realizado,250.00
+8122,126,12,2025-06-27,Primeira Consulta,Ortopedia,Realizado,160.00
+8124,110,19,2025-06-26,Exame,Ortopedia,Realizado,180.00
+8157,132,13,2025-06-28,Retorno,Ortopedia,Realizado,200.00
+8164,118,10,2025-06-03,Retorno,Ortopedia,Realizado,160.00
+8174,173,11,2025-06-14,Primeira Consulta,Ortopedia,Realizado,180.00
+8184,186,16,2025-06-02,Exame,Ortopedia,Realizado,100.00
+8185,173,13,2025-06-18,Retorno,Ortopedia,Realizado,250.00
+8196,101,10,2025-06-12,Primeira Consulta,Ortopedia,Realizado,250.00
+8200,142,18,2025-06-20,Retorno,Ortopedia,Realizado,160.00
+8207,111,15,2025-07-11,Retorno,Ortopedia,Realizado,100.00
+8208,152,16,2025-06-29,Exame,Ortopedia,Realizado,120.00
+8210,145,18,2025-07-05,Retorno,Ortopedia,Realizado,200.00
+8244,165,20,2025-06-07,Exame,Ortopedia,Realizado,180.00
+8279,156,17,2025-07-06,Retorno,Ortopedia,Realizado,250.00
+8317,171,14,2025-06-07,Primeira Consulta,Ortopedia,Realizado,80.00
+8366,183,15,2025-06-04,Exame,Ortopedia,Realizado,160.00
+8409,190,18,2025-06-20,Retorno,Ortopedia,Realizado,200.00
+8425,129,15,2025-06-25,Exame,Ortopedia,Realizado,150.00
+8434,166,13,2025-06-29,Exame,Ortopedia,Realizado,120.00
+8473,119,12,2025-06-25,Retorno,Ortopedia,Realizado,80.00
+8518,139,14,2025-06-01,Exame,Ortopedia,Realizado,120.00
+8521,196,15,2025-06-30,Retorno,Ortopedia,Realizado,160.00
+8533,111,16,2025-06-18,Retorno,Ortopedia,Realizado,180.00
+8534,121,13,2025-06-29,Exame,Ortopedia,Realizado,180.00
+8568,169,12,2025-07-13,Exame,Ortopedia,Realizado,150.00
+8586,106,13,2025-06-02,Exame,Ortopedia,Realizado,200.00
+8610,136,10,2025-06-05,Exame,Ortopedia,Realizado,200.00
+8649,184,11,2025-06-21,Primeira Consulta,Ortopedia,Realizado,80.00
+8668,109,20,2025-07-06,Retorno,Ortopedia,Realizado,200.00
+8747,178,14,2025-06-14,Primeira Consulta,Ortopedia,Realizado,80.00
+8810,163,15,2025-06-20,Primeira Consulta,Ortopedia,Realizado,180.00
+8861,115,16,2025-06-24,Primeira Consulta,Ortopedia,Realizado,80.00
+8888,110,14,2025-06-04,Retorno,Ortopedia,Realizado,80.00
+8917,105,17,2025-06-12,Retorno,Ortopedia,Realizado,160.00
+8932,104,15,2025-06-03,Exame,Ortopedia,Realizado,250.00
+9008,169,11,2025-06-27,Primeira Consulta,Ortopedia,Realizado,180.00
+9096,111,17,2025-06-19,Exame,Ortopedia,Realizado,80.00
+9117,112,16,2025-06-06,Retorno,Ortopedia,Realizado,180.00
+9170,105,17,2025-07-09,Retorno,Ortopedia,Realizado,160.00
+9254,167,12,2025-06-20,Primeira Consulta,Ortopedia,Realizado,120.00
+9286,121,13,2025-06-29,Exame,Ortopedia,Realizado,150.00
+9331,121,11,2025-06-22,Exame,Ortopedia,Realizado,160.00
+9340,105,12,2025-06-17,Retorno,Ortopedia,Realizado,150.00
+9381,149,14,2025-07-15,Primeira Consulta,Ortopedia,Realizado,100.00
+9395,120,13,2025-07-17,Primeira Consulta,Ortopedia,Realizado,180.00
+9408,172,20,2025-06-17,Exame,Ortopedia,Realizado,100.00
+9478,171,17,2025-06-10,Exame,Ortopedia,Realizado,100.00
+9495,126,19,2025-07-10,Exame,Ortopedia,Realizado,100.00
+9501,177,16,2025-07-03,Retorno,Ortopedia,Realizado,100.00
+9517,117,16,2025-06-20,Exame,Ortopedia,Realizado,80.00
+9543,169,10,2025-06-03,Exame,Ortopedia,Realizado,160.00
+9576,180,18,2025-07-12,Retorno,Ortopedia,Realizado,200.00
+9610,141,18,2025-06-23,Primeira Consulta,Ortopedia,Realizado,80.00
+9614,167,11,2025-05-29,Exame,Ortopedia,Realizado,80.00
+9645,157,13,2025-06-20,Exame,Ortopedia,Realizado,200.00
+9650,124,18,2025-06-03,Primeira Consulta,Ortopedia,Realizado,100.00
+9651,143,18,2025-07-07,Exame,Ortopedia,Realizado,120.00
+9665,179,10,2025-07-10,Primeira Consulta,Ortopedia,Realizado,80.00
+9677,137,17,2025-07-01,Primeira Consulta,Ortopedia,Realizado,150.00
+9692,178,20,2025-05-30,Primeira Consulta,Ortopedia,Realizado,100.00
+9719,171,12,2025-07-14,Primeira Consulta,Ortopedia,Realizado,180.00
+9727,159,18,2025-06-26,Primeira Consulta,Ortopedia,Realizado,100.00
+9801,119,12,2025-06-09,Exame,Ortopedia,Realizado,150.00
+9806,118,12,2025-06-12,Exame,Ortopedia,Realizado,100.00
+9824,174,20,2025-07-05,Primeira Consulta,Ortopedia,Realizado,120.00
+9830,166,19,2025-06-24,Primeira Consulta,Ortopedia,Realizado,180.00
+9854,121,10,2025-06-28,Retorno,Ortopedia,Realizado,120.00
+9859,144,20,2025-07-03,Retorno,Ortopedia,Realizado,160.00
+9867,112,20,2025-07-02,Exame,Ortopedia,Realizado,120.00
+9892,118,18,2025-06-28,Retorno,Ortopedia,Realizado,150.00
+9921,197,11,2025-05-29,Retorno,Ortopedia,Realizado,160.00

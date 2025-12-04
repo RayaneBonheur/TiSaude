@@ -1,4 +1,4 @@
-# Desafio Técnico Ti.Saude
+# Ti.Saude
 
 Este projeto foi desenvolvido para atender ao desafio técnico proposto pela Ti.Saúde, que visa avaliar habilidades essenciais em manipulação de dados, SQL e Python para análise de agendamentos de consultas e procedimentos médicos. O objetivo é estruturar, manipular e analisar os dados para fornecer relatórios estratégicos que possam auxiliar na otimização da gestão dos serviços de saúde.
 
